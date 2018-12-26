@@ -1,0 +1,28 @@
+<!DOCTYPE html 
+      PUBLIC "-//W3C//DTD HTML 4.01//EN"
+      "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US">
+<link rel="shortcut icon" href="https://www.dropbox.com/s/4uyidslr1rjnivb/honkicon.png?raw=1" />
+<head profile="http://www.w3.org/2005/10/profile">
+<title>本区</title>
+<style> body, a, a:hover { cursor:url(https://www.dropbox.com/s/k4a3ajjzixbf9ho/honk.png?raw=1), auto }</style>
+<div style="
+    width:  100%;
+    height:  100%;
+    position:  absolute;
+    top:  0px;
+    left:  0px;
+    padding: 0;
+    margin: 0;
+">
+<img src="https://www.dropbox.com/s/pss3x5qm1ydwydg/honkhonk.gif?raw=1" style="
+    width:  100%;
+    height: 100%;
+">
+</div>
+</style>
+<body style="overflow: hidden">
+<audio src="https://www.dropbox.com/s/zmt6zgbgrsn7fac/Through%20The%20Honking%20And%20The%20Horns.mp3?raw=1" autoplay loop></audio>
+</body>
+</html>
+<!Image by NoOne:http://steamcommunity.com/profiles/76561198118368835/>
